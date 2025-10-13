@@ -106,3 +106,5 @@ I’m always exploring and applying more depending on the context — from AI fr
 ---
 
 > 💬 “Artificial Intelligence inspires me because it’s not just about automation — it’s about creativity, discovery, and building tools that learn alongside us.”
+### About my preferences
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=19xqbgj8mxrq669n87bdmvc08)
