@@ -5,6 +5,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/snake.svg" alt="Snake animation" />
+
+###
+
 * 👋 My name is **Leonardo Crespo** — a full-stack developer and AI enthusiast who loves turning ideas into real, intelligent systems.  
 * 🧠 I’m passionate about **Artificial Intelligence**, automation, and how technology can enhance the way we build and interact with products.  
 * 🔭 I’m currently working on **CDMS**, an internal construction management platform that automates material and labor orders, logistics, and analytics.  
