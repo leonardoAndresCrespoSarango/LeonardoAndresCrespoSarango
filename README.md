@@ -1,10 +1,4 @@
 ### Hi there👋 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 * 👋 My name is **Leonardo Crespo** — a full-stack developer and AI enthusiast who loves turning ideas into real, intelligent systems.  
@@ -14,7 +8,7 @@
 * 💬 Ask me about **FastAPI, Angular, AWS CDK, Python data workflows, or building intelligent pipelines**.  
 * 🤝 I love collaborating on projects that mix **software engineering and machine learning** — where data meets real-world impact.  
 * ❤️ I’m driven by curiosity — from exploring neural networks to designing better user experiences.  
-* ⚡ Fun fact: I often build side projects just to test an idea or automate something small… and end up creating full-blown tools 😅.  
+* ⚡ Fun fact: I often build side projects just to test an idea or automate something small… and end up creating full-blown tools.  
 
 ---
 
@@ -106,5 +100,8 @@ I’m always exploring and applying more depending on the context — from AI fr
 ---
 
 > 💬 “Artificial Intelligence inspires me because it’s not just about automation — it’s about creativity, discovery, and building tools that learn alongside us.”
-### About my preferences
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=19xqbgj8mxrq669n87bdmvc08)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeonardoAndresCrespoSarango/LeonardoAndresCrespoSarango/output/pacman-contribution-graph.svg">
+</picture>
